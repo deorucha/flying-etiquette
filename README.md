@@ -4,4 +4,4 @@ I picked the question of airplane conversation etiquette because I found this to
 
 My chart is a column chart that reveals respondents' opinions on whether it is rude or not to say more than a few words to neighbors on airplanes. I expected the general consensus to be mostly nos, which is what the chart presented. 675/1,040, or almost 65% of respondents stated that it was not rude at all for people to say more than a few words to neighbors on a flight. The chart also shows that 153 said it was somewhat rude, while only 27 said it was very rude. Below is the chart discussed:
 
-![alt text](airplane-etiquette.png)
+![alt text](airplane-etiquette.jpg)
